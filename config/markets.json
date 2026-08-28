@@ -1,0 +1,18 @@
+[
+  {"id":"sp500","name":"S&P 500","symbol":"^GSPC"},
+  {"id":"nasdaq100","name":"Nasdaq 100","symbol":"^NDX"},
+  {"id":"dow","name":"Dow Jones","symbol":"^DJI"},
+  {"id":"stoxx600","name":"STOXX Europe 600","symbol":"^STOXX"},
+  {"id":"dax","name":"DAX","symbol":"^GDAXI"},
+  {"id":"ftse100","name":"FTSE 100","symbol":"^FTSE"},
+  {"id":"nikkei225","name":"Nikkei 225","symbol":"^N225"},
+  {"id":"hangseng","name":"Hang Seng","symbol":"^HSI"},
+  {"id":"nifty50","name":"Nifty 50","symbol":"^NSEI"},
+  {"id":"vix","name":"VIX","symbol":"^VIX"},
+  {"id":"gold","name":"Gold","symbol":"GC=F"},
+  {"id":"brent","name":"Brent crude","symbol":"BZ=F"},
+  {"id":"eurusd","name":"EUR/USD","symbol":"EURUSD=X"},
+  {"id":"eurinr","name":"EUR/INR","symbol":"EURINR=X"},
+  {"id":"usdinr","name":"USD/INR","symbol":"INR=X"},
+  {"id":"bitcoin","name":"Bitcoin","symbol":"BTC-USD"}
+]

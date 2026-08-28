@@ -1,0 +1,406 @@
+[
+  {
+    "isin": "IE000XZSV718",
+    "name": "State Street SPDR S&P 500 UCITS ETF (Acc)",
+    "ticker": "SPYL",
+    "yahooSymbol": "SPYL.DE",
+    "provider": "State Street SPDR",
+    "exchange": "Deutsche B\u00f6rse Xetra",
+    "tradingCurrency": "EUR",
+    "fundCurrency": "USD",
+    "ter": 0.03,
+    "fundSize": 44025360000,
+    "fundSizeCurrency": "USD",
+    "incomeUse": "Accumulating",
+    "sourceUrl": "https://www.ssga.com/de/de/intermediary/etfs/state-street-spdr-sp-500-ucits-etf-acc-spyl-gy",
+    "holdingsAsOf": "2026-08-18",
+    "seedHoldings": [
+      {
+        "name": "NVIDIA Corporation",
+        "ticker": "NVDA",
+        "weight": 8.04,
+        "sector": "Information Technology",
+        "country": "United States"
+      },
+      {
+        "name": "Apple Inc.",
+        "ticker": "AAPL",
+        "weight": 6.88,
+        "sector": "Information Technology",
+        "country": "United States"
+      },
+      {
+        "name": "Microsoft Corporation",
+        "ticker": "MSFT",
+        "weight": 5.41,
+        "sector": "Information Technology",
+        "country": "United States"
+      },
+      {
+        "name": "Amazon.com Inc.",
+        "ticker": "AMZN",
+        "weight": 3.84,
+        "sector": "Consumer Discretionary",
+        "country": "United States"
+      },
+      {
+        "name": "Alphabet Inc. Class A",
+        "ticker": "GOOGL",
+        "weight": 3.05,
+        "sector": "Communication Services",
+        "country": "United States"
+      },
+      {
+        "name": "Broadcom Inc.",
+        "ticker": "AVGO",
+        "weight": 2.72,
+        "sector": "Information Technology",
+        "country": "United States"
+      },
+      {
+        "name": "Alphabet Inc. Class C",
+        "ticker": "GOOG",
+        "weight": 2.44,
+        "sector": "Communication Services",
+        "country": "United States"
+      },
+      {
+        "name": "Meta Platforms Inc Class A",
+        "ticker": "META",
+        "weight": 1.81,
+        "sector": "Communication Services",
+        "country": "United States"
+      },
+      {
+        "name": "Micron Technology Inc.",
+        "ticker": "MU",
+        "weight": 1.6,
+        "sector": "Information Technology",
+        "country": "United States"
+      },
+      {
+        "name": "JPMorgan Chase & Co.",
+        "ticker": "JPM",
+        "weight": 1.47,
+        "sector": "Financials",
+        "country": "United States"
+      }
+    ],
+    "seedSectors": [
+      {
+        "name": "Information Technology",
+        "weight": 37.5
+      },
+      {
+        "name": "Financials",
+        "weight": 12.32
+      },
+      {
+        "name": "Communication Services",
+        "weight": 9.43
+      },
+      {
+        "name": "Health Care",
+        "weight": 9.24
+      },
+      {
+        "name": "Consumer Discretionary",
+        "weight": 9.08
+      },
+      {
+        "name": "Industrials",
+        "weight": 8.72
+      },
+      {
+        "name": "Consumer Staples",
+        "weight": 4.56
+      },
+      {
+        "name": "Energy",
+        "weight": 3.47
+      },
+      {
+        "name": "Utilities",
+        "weight": 2.07
+      },
+      {
+        "name": "Real Estate",
+        "weight": 1.82
+      },
+      {
+        "name": "Materials",
+        "weight": 1.78
+      }
+    ],
+    "seedCountries": [
+      {
+        "name": "United States",
+        "weight": 100.0
+      }
+    ]
+  },
+  {
+    "isin": "IE0006WW1TQ4",
+    "name": "Xtrackers MSCI World ex USA UCITS ETF 1C",
+    "ticker": "EXUS",
+    "yahooSymbol": "EXUS.DE",
+    "provider": "Xtrackers by DWS",
+    "exchange": "Deutsche B\u00f6rse Xetra",
+    "tradingCurrency": "EUR",
+    "fundCurrency": "USD",
+    "ter": 0.15,
+    "fundSize": 6756000000,
+    "fundSizeCurrency": "EUR",
+    "incomeUse": "Accumulating",
+    "sourceUrl": "https://etf.dws.com/de-de/IE0006WW1TQ4-msci-world-ex-usa-ucits-etf-1c/",
+    "holdingsAsOf": "2026-08-19",
+    "seedHoldings": [
+      {
+        "name": "ASML Holding NV",
+        "ticker": "ASML.AS",
+        "weight": 2.87,
+        "sector": "Information Technology",
+        "country": "Netherlands"
+      },
+      {
+        "name": "HSBC Holdings Plc",
+        "ticker": "HSBA.L",
+        "weight": 1.32,
+        "sector": "Financials",
+        "country": "United Kingdom"
+      },
+      {
+        "name": "Roche Holding AG",
+        "ticker": "ROG.SW",
+        "weight": 1.2,
+        "sector": "Health Care",
+        "country": "Switzerland"
+      },
+      {
+        "name": "AstraZeneca PLC",
+        "ticker": "AZN.L",
+        "weight": 1.17,
+        "sector": "Health Care",
+        "country": "United Kingdom"
+      },
+      {
+        "name": "Novartis AG",
+        "ticker": "NOVN.SW",
+        "weight": 1.17,
+        "sector": "Health Care",
+        "country": "Switzerland"
+      },
+      {
+        "name": "Royal Bank of Canada",
+        "ticker": "RY.TO",
+        "weight": 1.16,
+        "sector": "Financials",
+        "country": "Canada"
+      },
+      {
+        "name": "Nestl\u00e9 SA",
+        "ticker": "NESN.SW",
+        "weight": 1.09,
+        "sector": "Consumer Staples",
+        "country": "Switzerland"
+      },
+      {
+        "name": "Siemens AG",
+        "ticker": "SIE.DE",
+        "weight": 0.93,
+        "sector": "Industrials",
+        "country": "Germany"
+      },
+      {
+        "name": "Shell Plc",
+        "ticker": "SHEL.L",
+        "weight": 0.88,
+        "sector": "Energy",
+        "country": "United Kingdom"
+      },
+      {
+        "name": "Mitsubishi UFJ Financial Group",
+        "ticker": "8306.T",
+        "weight": 0.88,
+        "sector": "Financials",
+        "country": "Japan"
+      }
+    ],
+    "seedSectors": [
+      {
+        "name": "Financials",
+        "weight": 29.16
+      },
+      {
+        "name": "Industrials",
+        "weight": 14.81
+      },
+      {
+        "name": "Information Technology",
+        "weight": 12.56
+      },
+      {
+        "name": "Health Care",
+        "weight": 8.89
+      },
+      {
+        "name": "Other",
+        "weight": 34.58
+      }
+    ],
+    "seedCountries": [
+      {
+        "name": "Japan",
+        "weight": 20.82
+      },
+      {
+        "name": "United Kingdom",
+        "weight": 11.95
+      },
+      {
+        "name": "Canada",
+        "weight": 11.94
+      },
+      {
+        "name": "Switzerland",
+        "weight": 8.99
+      },
+      {
+        "name": "Other",
+        "weight": 46.3
+      }
+    ]
+  },
+  {
+    "isin": "IE00BKM4GZ66",
+    "name": "iShares Core MSCI EM IMI UCITS ETF USD (Acc)",
+    "ticker": "IS3N",
+    "yahooSymbol": "IS3N.DE",
+    "provider": "iShares by BlackRock",
+    "exchange": "Deutsche B\u00f6rse Xetra",
+    "tradingCurrency": "EUR",
+    "fundCurrency": "USD",
+    "ter": 0.18,
+    "fundSize": 45731475596,
+    "fundSizeCurrency": "USD",
+    "incomeUse": "Accumulating",
+    "sourceUrl": "https://www.ishares.com/uk/individual/en/products/264659",
+    "holdingsAsOf": "2026-08-19",
+    "seedHoldings": [
+      {
+        "name": "Taiwan Semiconductor Manufacturing",
+        "ticker": "2330.TW",
+        "weight": 13.57,
+        "sector": "Information Technology",
+        "country": "Taiwan"
+      },
+      {
+        "name": "Samsung Electronics Ltd",
+        "ticker": "005930.KS",
+        "weight": 6.32,
+        "sector": "Information Technology",
+        "country": "South Korea"
+      },
+      {
+        "name": "SK Hynix Inc",
+        "ticker": "000660.KS",
+        "weight": 4.88,
+        "sector": "Information Technology",
+        "country": "South Korea"
+      },
+      {
+        "name": "Tencent Holdings Ltd",
+        "ticker": "0700.HK",
+        "weight": 2.74,
+        "sector": "Communication Services",
+        "country": "China"
+      },
+      {
+        "name": "Alibaba Group Holding Ltd",
+        "ticker": "9988.HK",
+        "weight": 1.84,
+        "sector": "Consumer Discretionary",
+        "country": "China"
+      },
+      {
+        "name": "MediaTek Inc",
+        "ticker": "2454.TW",
+        "weight": 1.18,
+        "sector": "Information Technology",
+        "country": "Taiwan"
+      },
+      {
+        "name": "Samsung Electronics Non Voting Pref",
+        "ticker": "005935.KS",
+        "weight": 0.79,
+        "sector": "Information Technology",
+        "country": "South Korea"
+      },
+      {
+        "name": "China Construction Bank Corp H",
+        "ticker": "0939.HK",
+        "weight": 0.74,
+        "sector": "Financials",
+        "country": "China"
+      },
+      {
+        "name": "Delta Electronics Inc",
+        "ticker": "2308.TW",
+        "weight": 0.73,
+        "sector": "Information Technology",
+        "country": "Taiwan"
+      },
+      {
+        "name": "Hon Hai Precision Industry Ltd",
+        "ticker": "2317.TW",
+        "weight": 0.7,
+        "sector": "Information Technology",
+        "country": "Taiwan"
+      }
+    ],
+    "seedSectors": [
+      {
+        "name": "Information Technology",
+        "weight": 45.21
+      },
+      {
+        "name": "Financials",
+        "weight": 19.74
+      },
+      {
+        "name": "Materials",
+        "weight": 7.13
+      },
+      {
+        "name": "Industrials",
+        "weight": 6.78
+      },
+      {
+        "name": "Other",
+        "weight": 21.14
+      }
+    ],
+    "seedCountries": [
+      {
+        "name": "Taiwan",
+        "weight": 27.31
+      },
+      {
+        "name": "South Korea",
+        "weight": 22.44
+      },
+      {
+        "name": "China",
+        "weight": 15.75
+      },
+      {
+        "name": "India",
+        "weight": 12.21
+      },
+      {
+        "name": "Other",
+        "weight": 22.29
+      }
+    ]
+  }
+]

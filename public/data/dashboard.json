@@ -1,0 +1,946 @@
+{
+  "generatedAt": "2026-08-19T13:13:00.000Z",
+  "delayed": true,
+  "delayNote": "Seed metadata included. On GitHub Pages, scheduled GitHub Actions refresh delayed public market prices approximately hourly.",
+  "etfs": [
+    {
+      "id": "ie000xzsv718",
+      "isin": "IE000XZSV718",
+      "name": "State Street SPDR S&P 500 UCITS ETF (Acc)",
+      "ticker": "SPYL",
+      "yahooSymbol": "SPYL.DE",
+      "provider": "State Street SPDR",
+      "exchange": "Deutsche B\u00f6rse Xetra",
+      "tradingCurrency": "EUR",
+      "fundCurrency": "USD",
+      "ter": 0.03,
+      "fundSize": 44025360000,
+      "fundSizeCurrency": "USD",
+      "incomeUse": "Accumulating",
+      "price": null,
+      "performance": {
+        "day": null,
+        "week": null,
+        "month": null,
+        "ytd": null,
+        "year": null,
+        "threeYear": null,
+        "fiveYear": null
+      },
+      "high52": null,
+      "low52": null,
+      "volatility": null,
+      "maxDrawdown": null,
+      "history": [],
+      "holdings": [
+        {
+          "name": "NVIDIA Corporation",
+          "ticker": "NVDA",
+          "weight": 8.04,
+          "sector": "Information Technology",
+          "country": "United States",
+          "price": null,
+          "currency": null,
+          "daily": null,
+          "week": null,
+          "month": null,
+          "ytd": null,
+          "contribution": null
+        },
+        {
+          "name": "Apple Inc.",
+          "ticker": "AAPL",
+          "weight": 6.88,
+          "sector": "Information Technology",
+          "country": "United States",
+          "price": null,
+          "currency": null,
+          "daily": null,
+          "week": null,
+          "month": null,
+          "ytd": null,
+          "contribution": null
+        },
+        {
+          "name": "Microsoft Corporation",
+          "ticker": "MSFT",
+          "weight": 5.41,
+          "sector": "Information Technology",
+          "country": "United States",
+          "price": null,
+          "currency": null,
+          "daily": null,
+          "week": null,
+          "month": null,
+          "ytd": null,
+          "contribution": null
+        },
+        {
+          "name": "Amazon.com Inc.",
+          "ticker": "AMZN",
+          "weight": 3.84,
+          "sector": "Consumer Discretionary",
+          "country": "United States",
+          "price": null,
+          "currency": null,
+          "daily": null,
+          "week": null,
+          "month": null,
+          "ytd": null,
+          "contribution": null
+        },
+        {
+          "name": "Alphabet Inc. Class A",
+          "ticker": "GOOGL",
+          "weight": 3.05,
+          "sector": "Communication Services",
+          "country": "United States",
+          "price": null,
+          "currency": null,
+          "daily": null,
+          "week": null,
+          "month": null,
+          "ytd": null,
+          "contribution": null
+        },
+        {
+          "name": "Broadcom Inc.",
+          "ticker": "AVGO",
+          "weight": 2.72,
+          "sector": "Information Technology",
+          "country": "United States",
+          "price": null,
+          "currency": null,
+          "daily": null,
+          "week": null,
+          "month": null,
+          "ytd": null,
+          "contribution": null
+        },
+        {
+          "name": "Alphabet Inc. Class C",
+          "ticker": "GOOG",
+          "weight": 2.44,
+          "sector": "Communication Services",
+          "country": "United States",
+          "price": null,
+          "currency": null,
+          "daily": null,
+          "week": null,
+          "month": null,
+          "ytd": null,
+          "contribution": null
+        },
+        {
+          "name": "Meta Platforms Inc Class A",
+          "ticker": "META",
+          "weight": 1.81,
+          "sector": "Communication Services",
+          "country": "United States",
+          "price": null,
+          "currency": null,
+          "daily": null,
+          "week": null,
+          "month": null,
+          "ytd": null,
+          "contribution": null
+        },
+        {
+          "name": "Micron Technology Inc.",
+          "ticker": "MU",
+          "weight": 1.6,
+          "sector": "Information Technology",
+          "country": "United States",
+          "price": null,
+          "currency": null,
+          "daily": null,
+          "week": null,
+          "month": null,
+          "ytd": null,
+          "contribution": null
+        },
+        {
+          "name": "JPMorgan Chase & Co.",
+          "ticker": "JPM",
+          "weight": 1.47,
+          "sector": "Financials",
+          "country": "United States",
+          "price": null,
+          "currency": null,
+          "daily": null,
+          "week": null,
+          "month": null,
+          "ytd": null,
+          "contribution": null
+        }
+      ],
+      "sectors": [
+        {
+          "name": "Information Technology",
+          "weight": 37.5
+        },
+        {
+          "name": "Financials",
+          "weight": 12.32
+        },
+        {
+          "name": "Communication Services",
+          "weight": 9.43
+        },
+        {
+          "name": "Health Care",
+          "weight": 9.24
+        },
+        {
+          "name": "Consumer Discretionary",
+          "weight": 9.08
+        },
+        {
+          "name": "Industrials",
+          "weight": 8.72
+        },
+        {
+          "name": "Consumer Staples",
+          "weight": 4.56
+        },
+        {
+          "name": "Energy",
+          "weight": 3.47
+        },
+        {
+          "name": "Utilities",
+          "weight": 2.07
+        },
+        {
+          "name": "Real Estate",
+          "weight": 1.82
+        },
+        {
+          "name": "Materials",
+          "weight": 1.78
+        }
+      ],
+      "countries": [
+        {
+          "name": "United States",
+          "weight": 100.0
+        }
+      ],
+      "holdingsAsOf": "2026-08-18",
+      "sourceUrl": "https://www.ssga.com/de/de/intermediary/etfs/state-street-spdr-sp-500-ucits-etf-acc-spyl-gy"
+    },
+    {
+      "id": "ie0006ww1tq4",
+      "isin": "IE0006WW1TQ4",
+      "name": "Xtrackers MSCI World ex USA UCITS ETF 1C",
+      "ticker": "EXUS",
+      "yahooSymbol": "EXUS.DE",
+      "provider": "Xtrackers by DWS",
+      "exchange": "Deutsche B\u00f6rse Xetra",
+      "tradingCurrency": "EUR",
+      "fundCurrency": "USD",
+      "ter": 0.15,
+      "fundSize": 6756000000,
+      "fundSizeCurrency": "EUR",
+      "incomeUse": "Accumulating",
+      "price": null,
+      "performance": {
+        "day": null,
+        "week": null,
+        "month": null,
+        "ytd": null,
+        "year": null,
+        "threeYear": null,
+        "fiveYear": null
+      },
+      "high52": null,
+      "low52": null,
+      "volatility": null,
+      "maxDrawdown": null,
+      "history": [],
+      "holdings": [
+        {
+          "name": "ASML Holding NV",
+          "ticker": "ASML.AS",
+          "weight": 2.87,
+          "sector": "Information Technology",
+          "country": "Netherlands",
+          "price": null,
+          "currency": null,
+          "daily": null,
+          "week": null,
+          "month": null,
+          "ytd": null,
+          "contribution": null
+        },
+        {
+          "name": "HSBC Holdings Plc",
+          "ticker": "HSBA.L",
+          "weight": 1.32,
+          "sector": "Financials",
+          "country": "United Kingdom",
+          "price": null,
+          "currency": null,
+          "daily": null,
+          "week": null,
+          "month": null,
+          "ytd": null,
+          "contribution": null
+        },
+        {
+          "name": "Roche Holding AG",
+          "ticker": "ROG.SW",
+          "weight": 1.2,
+          "sector": "Health Care",
+          "country": "Switzerland",
+          "price": null,
+          "currency": null,
+          "daily": null,
+          "week": null,
+          "month": null,
+          "ytd": null,
+          "contribution": null
+        },
+        {
+          "name": "AstraZeneca PLC",
+          "ticker": "AZN.L",
+          "weight": 1.17,
+          "sector": "Health Care",
+          "country": "United Kingdom",
+          "price": null,
+          "currency": null,
+          "daily": null,
+          "week": null,
+          "month": null,
+          "ytd": null,
+          "contribution": null
+        },
+        {
+          "name": "Novartis AG",
+          "ticker": "NOVN.SW",
+          "weight": 1.17,
+          "sector": "Health Care",
+          "country": "Switzerland",
+          "price": null,
+          "currency": null,
+          "daily": null,
+          "week": null,
+          "month": null,
+          "ytd": null,
+          "contribution": null
+        },
+        {
+          "name": "Royal Bank of Canada",
+          "ticker": "RY.TO",
+          "weight": 1.16,
+          "sector": "Financials",
+          "country": "Canada",
+          "price": null,
+          "currency": null,
+          "daily": null,
+          "week": null,
+          "month": null,
+          "ytd": null,
+          "contribution": null
+        },
+        {
+          "name": "Nestl\u00e9 SA",
+          "ticker": "NESN.SW",
+          "weight": 1.09,
+          "sector": "Consumer Staples",
+          "country": "Switzerland",
+          "price": null,
+          "currency": null,
+          "daily": null,
+          "week": null,
+          "month": null,
+          "ytd": null,
+          "contribution": null
+        },
+        {
+          "name": "Siemens AG",
+          "ticker": "SIE.DE",
+          "weight": 0.93,
+          "sector": "Industrials",
+          "country": "Germany",
+          "price": null,
+          "currency": null,
+          "daily": null,
+          "week": null,
+          "month": null,
+          "ytd": null,
+          "contribution": null
+        },
+        {
+          "name": "Shell Plc",
+          "ticker": "SHEL.L",
+          "weight": 0.88,
+          "sector": "Energy",
+          "country": "United Kingdom",
+          "price": null,
+          "currency": null,
+          "daily": null,
+          "week": null,
+          "month": null,
+          "ytd": null,
+          "contribution": null
+        },
+        {
+          "name": "Mitsubishi UFJ Financial Group",
+          "ticker": "8306.T",
+          "weight": 0.88,
+          "sector": "Financials",
+          "country": "Japan",
+          "price": null,
+          "currency": null,
+          "daily": null,
+          "week": null,
+          "month": null,
+          "ytd": null,
+          "contribution": null
+        }
+      ],
+      "sectors": [
+        {
+          "name": "Financials",
+          "weight": 29.16
+        },
+        {
+          "name": "Industrials",
+          "weight": 14.81
+        },
+        {
+          "name": "Information Technology",
+          "weight": 12.56
+        },
+        {
+          "name": "Health Care",
+          "weight": 8.89
+        },
+        {
+          "name": "Other",
+          "weight": 34.58
+        }
+      ],
+      "countries": [
+        {
+          "name": "Japan",
+          "weight": 20.82
+        },
+        {
+          "name": "United Kingdom",
+          "weight": 11.95
+        },
+        {
+          "name": "Canada",
+          "weight": 11.94
+        },
+        {
+          "name": "Switzerland",
+          "weight": 8.99
+        },
+        {
+          "name": "Other",
+          "weight": 46.3
+        }
+      ],
+      "holdingsAsOf": "2026-08-19",
+      "sourceUrl": "https://etf.dws.com/de-de/IE0006WW1TQ4-msci-world-ex-usa-ucits-etf-1c/"
+    },
+    {
+      "id": "ie00bkm4gz66",
+      "isin": "IE00BKM4GZ66",
+      "name": "iShares Core MSCI EM IMI UCITS ETF USD (Acc)",
+      "ticker": "IS3N",
+      "yahooSymbol": "IS3N.DE",
+      "provider": "iShares by BlackRock",
+      "exchange": "Deutsche B\u00f6rse Xetra",
+      "tradingCurrency": "EUR",
+      "fundCurrency": "USD",
+      "ter": 0.18,
+      "fundSize": 45731475596,
+      "fundSizeCurrency": "USD",
+      "incomeUse": "Accumulating",
+      "price": null,
+      "performance": {
+        "day": null,
+        "week": null,
+        "month": null,
+        "ytd": null,
+        "year": null,
+        "threeYear": null,
+        "fiveYear": null
+      },
+      "high52": null,
+      "low52": null,
+      "volatility": null,
+      "maxDrawdown": null,
+      "history": [],
+      "holdings": [
+        {
+          "name": "Taiwan Semiconductor Manufacturing",
+          "ticker": "2330.TW",
+          "weight": 13.57,
+          "sector": "Information Technology",
+          "country": "Taiwan",
+          "price": null,
+          "currency": null,
+          "daily": null,
+          "week": null,
+          "month": null,
+          "ytd": null,
+          "contribution": null
+        },
+        {
+          "name": "Samsung Electronics Ltd",
+          "ticker": "005930.KS",
+          "weight": 6.32,
+          "sector": "Information Technology",
+          "country": "South Korea",
+          "price": null,
+          "currency": null,
+          "daily": null,
+          "week": null,
+          "month": null,
+          "ytd": null,
+          "contribution": null
+        },
+        {
+          "name": "SK Hynix Inc",
+          "ticker": "000660.KS",
+          "weight": 4.88,
+          "sector": "Information Technology",
+          "country": "South Korea",
+          "price": null,
+          "currency": null,
+          "daily": null,
+          "week": null,
+          "month": null,
+          "ytd": null,
+          "contribution": null
+        },
+        {
+          "name": "Tencent Holdings Ltd",
+          "ticker": "0700.HK",
+          "weight": 2.74,
+          "sector": "Communication Services",
+          "country": "China",
+          "price": null,
+          "currency": null,
+          "daily": null,
+          "week": null,
+          "month": null,
+          "ytd": null,
+          "contribution": null
+        },
+        {
+          "name": "Alibaba Group Holding Ltd",
+          "ticker": "9988.HK",
+          "weight": 1.84,
+          "sector": "Consumer Discretionary",
+          "country": "China",
+          "price": null,
+          "currency": null,
+          "daily": null,
+          "week": null,
+          "month": null,
+          "ytd": null,
+          "contribution": null
+        },
+        {
+          "name": "MediaTek Inc",
+          "ticker": "2454.TW",
+          "weight": 1.18,
+          "sector": "Information Technology",
+          "country": "Taiwan",
+          "price": null,
+          "currency": null,
+          "daily": null,
+          "week": null,
+          "month": null,
+          "ytd": null,
+          "contribution": null
+        },
+        {
+          "name": "Samsung Electronics Non Voting Pref",
+          "ticker": "005935.KS",
+          "weight": 0.79,
+          "sector": "Information Technology",
+          "country": "South Korea",
+          "price": null,
+          "currency": null,
+          "daily": null,
+          "week": null,
+          "month": null,
+          "ytd": null,
+          "contribution": null
+        },
+        {
+          "name": "China Construction Bank Corp H",
+          "ticker": "0939.HK",
+          "weight": 0.74,
+          "sector": "Financials",
+          "country": "China",
+          "price": null,
+          "currency": null,
+          "daily": null,
+          "week": null,
+          "month": null,
+          "ytd": null,
+          "contribution": null
+        },
+        {
+          "name": "Delta Electronics Inc",
+          "ticker": "2308.TW",
+          "weight": 0.73,
+          "sector": "Information Technology",
+          "country": "Taiwan",
+          "price": null,
+          "currency": null,
+          "daily": null,
+          "week": null,
+          "month": null,
+          "ytd": null,
+          "contribution": null
+        },
+        {
+          "name": "Hon Hai Precision Industry Ltd",
+          "ticker": "2317.TW",
+          "weight": 0.7,
+          "sector": "Information Technology",
+          "country": "Taiwan",
+          "price": null,
+          "currency": null,
+          "daily": null,
+          "week": null,
+          "month": null,
+          "ytd": null,
+          "contribution": null
+        }
+      ],
+      "sectors": [
+        {
+          "name": "Information Technology",
+          "weight": 45.21
+        },
+        {
+          "name": "Financials",
+          "weight": 19.74
+        },
+        {
+          "name": "Materials",
+          "weight": 7.13
+        },
+        {
+          "name": "Industrials",
+          "weight": 6.78
+        },
+        {
+          "name": "Other",
+          "weight": 21.14
+        }
+      ],
+      "countries": [
+        {
+          "name": "Taiwan",
+          "weight": 27.31
+        },
+        {
+          "name": "South Korea",
+          "weight": 22.44
+        },
+        {
+          "name": "China",
+          "weight": 15.75
+        },
+        {
+          "name": "India",
+          "weight": 12.21
+        },
+        {
+          "name": "Other",
+          "weight": 22.29
+        }
+      ],
+      "holdingsAsOf": "2026-08-19",
+      "sourceUrl": "https://www.ishares.com/uk/individual/en/products/264659"
+    }
+  ],
+  "markets": [
+    {
+      "id": "sp500",
+      "name": "S&P 500",
+      "symbol": "^GSPC",
+      "price": null,
+      "currency": null,
+      "performance": {
+        "day": null,
+        "week": null,
+        "month": null,
+        "ytd": null,
+        "year": null,
+        "threeYear": null,
+        "fiveYear": null
+      },
+      "history": []
+    },
+    {
+      "id": "nasdaq100",
+      "name": "Nasdaq 100",
+      "symbol": "^NDX",
+      "price": null,
+      "currency": null,
+      "performance": {
+        "day": null,
+        "week": null,
+        "month": null,
+        "ytd": null,
+        "year": null,
+        "threeYear": null,
+        "fiveYear": null
+      },
+      "history": []
+    },
+    {
+      "id": "dow",
+      "name": "Dow Jones",
+      "symbol": "^DJI",
+      "price": null,
+      "currency": null,
+      "performance": {
+        "day": null,
+        "week": null,
+        "month": null,
+        "ytd": null,
+        "year": null,
+        "threeYear": null,
+        "fiveYear": null
+      },
+      "history": []
+    },
+    {
+      "id": "stoxx600",
+      "name": "STOXX Europe 600",
+      "symbol": "^STOXX",
+      "price": null,
+      "currency": null,
+      "performance": {
+        "day": null,
+        "week": null,
+        "month": null,
+        "ytd": null,
+        "year": null,
+        "threeYear": null,
+        "fiveYear": null
+      },
+      "history": []
+    },
+    {
+      "id": "dax",
+      "name": "DAX",
+      "symbol": "^GDAXI",
+      "price": null,
+      "currency": null,
+      "performance": {
+        "day": null,
+        "week": null,
+        "month": null,
+        "ytd": null,
+        "year": null,
+        "threeYear": null,
+        "fiveYear": null
+      },
+      "history": []
+    },
+    {
+      "id": "ftse100",
+      "name": "FTSE 100",
+      "symbol": "^FTSE",
+      "price": null,
+      "currency": null,
+      "performance": {
+        "day": null,
+        "week": null,
+        "month": null,
+        "ytd": null,
+        "year": null,
+        "threeYear": null,
+        "fiveYear": null
+      },
+      "history": []
+    },
+    {
+      "id": "nikkei225",
+      "name": "Nikkei 225",
+      "symbol": "^N225",
+      "price": null,
+      "currency": null,
+      "performance": {
+        "day": null,
+        "week": null,
+        "month": null,
+        "ytd": null,
+        "year": null,
+        "threeYear": null,
+        "fiveYear": null
+      },
+      "history": []
+    },
+    {
+      "id": "hangseng",
+      "name": "Hang Seng",
+      "symbol": "^HSI",
+      "price": null,
+      "currency": null,
+      "performance": {
+        "day": null,
+        "week": null,
+        "month": null,
+        "ytd": null,
+        "year": null,
+        "threeYear": null,
+        "fiveYear": null
+      },
+      "history": []
+    },
+    {
+      "id": "nifty50",
+      "name": "Nifty 50",
+      "symbol": "^NSEI",
+      "price": null,
+      "currency": null,
+      "performance": {
+        "day": null,
+        "week": null,
+        "month": null,
+        "ytd": null,
+        "year": null,
+        "threeYear": null,
+        "fiveYear": null
+      },
+      "history": []
+    },
+    {
+      "id": "vix",
+      "name": "VIX",
+      "symbol": "^VIX",
+      "price": null,
+      "currency": null,
+      "performance": {
+        "day": null,
+        "week": null,
+        "month": null,
+        "ytd": null,
+        "year": null,
+        "threeYear": null,
+        "fiveYear": null
+      },
+      "history": []
+    },
+    {
+      "id": "gold",
+      "name": "Gold",
+      "symbol": "GC=F",
+      "price": null,
+      "currency": null,
+      "performance": {
+        "day": null,
+        "week": null,
+        "month": null,
+        "ytd": null,
+        "year": null,
+        "threeYear": null,
+        "fiveYear": null
+      },
+      "history": []
+    },
+    {
+      "id": "brent",
+      "name": "Brent crude",
+      "symbol": "BZ=F",
+      "price": null,
+      "currency": null,
+      "performance": {
+        "day": null,
+        "week": null,
+        "month": null,
+        "ytd": null,
+        "year": null,
+        "threeYear": null,
+        "fiveYear": null
+      },
+      "history": []
+    },
+    {
+      "id": "eurusd",
+      "name": "EUR/USD",
+      "symbol": "EURUSD=X",
+      "price": null,
+      "currency": null,
+      "performance": {
+        "day": null,
+        "week": null,
+        "month": null,
+        "ytd": null,
+        "year": null,
+        "threeYear": null,
+        "fiveYear": null
+      },
+      "history": []
+    },
+    {
+      "id": "eurinr",
+      "name": "EUR/INR",
+      "symbol": "EURINR=X",
+      "price": null,
+      "currency": null,
+      "performance": {
+        "day": null,
+        "week": null,
+        "month": null,
+        "ytd": null,
+        "year": null,
+        "threeYear": null,
+        "fiveYear": null
+      },
+      "history": []
+    },
+    {
+      "id": "usdinr",
+      "name": "USD/INR",
+      "symbol": "INR=X",
+      "price": null,
+      "currency": null,
+      "performance": {
+        "day": null,
+        "week": null,
+        "month": null,
+        "ytd": null,
+        "year": null,
+        "threeYear": null,
+        "fiveYear": null
+      },
+      "history": []
+    },
+    {
+      "id": "bitcoin",
+      "name": "Bitcoin",
+      "symbol": "BTC-USD",
+      "price": null,
+      "currency": null,
+      "performance": {
+        "day": null,
+        "week": null,
+        "month": null,
+        "ytd": null,
+        "year": null,
+        "threeYear": null,
+        "fiveYear": null
+      },
+      "history": []
+    }
+  ],
+  "warnings": [
+    "Initial seed file contains verified ETF metadata/holdings where available; run npm run refresh:data or GitHub Actions to populate market prices and history."
+  ]
+}
