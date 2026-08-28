@@ -5,10 +5,11 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "tsc -b && vite build",
+    "build": "npm run prepare:auth && tsc -b && vite build",
     "preview": "vite preview",
     "refresh:data": "node scripts/refresh-data.mjs",
-    "check:data": "node scripts/validate-data.mjs"
+    "check:data": "node scripts/validate-data.mjs",
+    "prepare:auth": "node scripts/generate-auth.mjs"
   },
   "dependencies": {
     "lucide-react": "^0.468.0",
