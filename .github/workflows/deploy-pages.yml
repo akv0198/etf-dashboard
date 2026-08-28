@@ -1,4 +1,3 @@
-
 name: Deploy GitHub Pages
 
 on:
@@ -22,39 +21,27 @@ jobs:
   build:
     if: github.event_name != 'workflow_run' || github.event.workflow_run.conclusion == 'success'
     runs-on: ubuntu-latest
-
     steps:
       - uses: actions/checkout@v7
-
       - uses: actions/setup-node@v7
         with:
           node-version: 24
-
       - run: npm install --no-audit --no-fund
-
       - name: Refresh before deploy
         run: npm run refresh:data
         continue-on-error: true
-
       - run: npm run check:data
-
       - run: npm run build
-
       - uses: actions/configure-pages@v6
-
       - uses: actions/upload-pages-artifact@v5
         with:
           path: ./dist
-
   deploy:
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
-
     runs-on: ubuntu-latest
-
     needs: build
-
     steps:
       - name: Deploy to GitHub Pages
         id: deployment
