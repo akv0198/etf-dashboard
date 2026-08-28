@@ -2,7 +2,7 @@ name: Refresh ETF holdings
 
 on:
   schedule:
-    - cron: '43 5 * * 0'
+    - cron: '43 5 * * *'
   workflow_dispatch:
 
 permissions:
