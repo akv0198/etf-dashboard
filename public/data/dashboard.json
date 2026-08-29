@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-29T02:05:56.501Z",
+  "generatedAt": "2026-08-29T02:20:44.810Z",
   "delayed": true,
   "delayNote": "Delayed public market data; scheduled refresh approximately hourly. ETF holdings are updated less frequently.",
   "etfs": [
@@ -5432,7 +5432,7 @@
           "daily": -0.7478599996299407,
           "week": -1.2621230033123765,
           "month": 7.058484462455872,
-          "ytd": 62.08838168316835,
+          "ytd": 62.08837089499042,
           "contribution": -0.021463581989379296
         },
         {
@@ -5553,13 +5553,13 @@
           "weight": 0.88,
           "sector": "Financials",
           "country": "Japan",
-          "price": 3658,
+          "price": 3608,
           "currency": "JPY",
-          "daily": 1.3858093126385862,
-          "week": 4.275940706955539,
-          "month": 0.30161776802850593,
-          "ytd": 49.539882826640365,
-          "contribution": 0.01219512195121956
+          "daily": 0.8102822017323374,
+          "week": 4.157043879907629,
+          "month": -1.4476918874624434,
+          "ytd": 47.495871306319984,
+          "contribution": 0.00713048337524457
         }
       ],
       "sectors": [
@@ -10730,13 +10730,13 @@
           "weight": 13.57,
           "sector": "Information Technology",
           "country": "Taiwan",
-          "price": 2420,
+          "price": 2410,
           "currency": "TWD",
-          "daily": 0.4149377593360981,
-          "week": 0.4149377593360981,
-          "month": 10.000000000000009,
-          "ytd": 57.056309650792315,
-          "contribution": 0.05630705394190852
+          "daily": -0.20703933747412417,
+          "week": 1.473684210526316,
+          "month": 5.701754385964919,
+          "ytd": 56.407316635706394,
+          "contribution": -0.028095238095238652
         },
         {
           "name": "Samsung Electronics Ltd",
@@ -10744,13 +10744,13 @@
           "weight": 6.32,
           "sector": "Information Technology",
           "country": "South Korea",
-          "price": 257000,
+          "price": 266000,
           "currency": "KRW",
-          "daily": -3.383458646616544,
-          "week": -8.703374777975137,
-          "month": 23.26139088729018,
-          "ytd": 115.0258180014574,
-          "contribution": -0.2138345864661656
+          "daily": 1.7208413001912115,
+          "week": -1.845018450184499,
+          "month": 20.9090909090909,
+          "ytd": 122.55590501318156,
+          "contribution": 0.10875717017208458
         },
         {
           "name": "SK Hynix Inc",
@@ -10758,13 +10758,13 @@
           "weight": 4.88,
           "sector": "Information Technology",
           "country": "South Korea",
-          "price": 1653000,
+          "price": 1729625,
           "currency": "KRW",
-          "daily": -4.430151044301511,
-          "week": -4.430151044301511,
-          "month": 18.012738307823707,
-          "ytd": 154.48328577487698,
-          "contribution": -0.21619137096191374
+          "daily": 2.4881503862693055,
+          "week": 2.3063323826787663,
+          "month": 11.612904474776474,
+          "ytd": 166.27988696816186,
+          "contribution": 0.1214217388499421
         },
         {
           "name": "Tencent Holdings Ltd",
@@ -10772,13 +10772,13 @@
           "weight": 2.74,
           "sector": "Communication Services",
           "country": "China",
-          "price": 455.20001220703125,
+          "price": 447.79998779296875,
           "currency": "HKD",
-          "daily": 1.6525289450172398,
-          "week": -0.3938704142163574,
-          "month": -2.4013683181863255,
-          "ytd": -23.121279374579295,
-          "contribution": 0.045279293093472374
+          "daily": 0.5388401278339838,
+          "week": -0.7975201932194032,
+          "month": 0.13416269444548323,
+          "ytd": -24.371069344468964,
+          "contribution": 0.014764219502651157
         },
         {
           "name": "Alibaba Group Holding Ltd",
@@ -10786,13 +10786,13 @@
           "weight": 1.84,
           "sector": "Consumer Discretionary",
           "country": "China",
-          "price": 113.9000015258789,
+          "price": 115.5,
           "currency": "HKD",
-          "daily": -1.3852800641741103,
-          "week": -7.3983727431878865,
-          "month": 0.26408719699599903,
-          "ytd": -20.148590331824245,
-          "contribution": -0.02548915318080363
+          "daily": -0.9433949301167699,
+          "week": -8.478603175109845,
+          "month": 3.125,
+          "ytd": -19.02688592520516,
+          "contribution": -0.017358466714148566
         },
         {
           "name": "MediaTek Inc",
@@ -10800,13 +10800,13 @@
           "weight": 1.18,
           "sector": "Information Technology",
           "country": "Taiwan",
-          "price": 3985,
+          "price": 3865,
           "currency": "TWD",
-          "daily": 3.1047865459249646,
-          "week": 5.145118733509224,
-          "month": 26.507936507936503,
-          "ytd": 185.77068555912234,
-          "contribution": 0.036636481241914584
+          "daily": -2.0278833967046883,
+          "week": 4.459459459459469,
+          "month": 16.59125188536954,
+          "ytd": 177.16529477691543,
+          "contribution": -0.023929024081115323
         },
         {
           "name": "Samsung Electronics Non Voting Pref",
@@ -10814,13 +10814,13 @@
           "weight": 0.79,
           "sector": "Information Technology",
           "country": "South Korea",
-          "price": 186800,
+          "price": 194300,
           "currency": "KRW",
-          "daily": -3.8600102933607827,
-          "week": -9.75845410628019,
-          "month": 21.773142112125154,
-          "ytd": 110.39253081173905,
-          "contribution": -0.030494081317550187
+          "daily": -1.2703252032520318,
+          "week": 1.6213389121338961,
+          "month": 22.81921618204803,
+          "ytd": 118.83976839786348,
+          "contribution": -0.010035569105691053
         },
         {
           "name": "China Construction Bank Corp H",
@@ -10828,13 +10828,13 @@
           "weight": 0.74,
           "sector": "Financials",
           "country": "China",
-          "price": 9.140000343322754,
+          "price": 9.135000228881836,
           "currency": "HKD",
-          "daily": 0.0547357888958766,
-          "week": -1.1357441161285453,
-          "month": -0.7600401143787905,
-          "ytd": 22.728136519386698,
-          "contribution": 0.00040504483782948685
+          "daily": -0.8681489135253906,
+          "week": -0.7065171927269076,
+          "month": 0.05476576536957989,
+          "ytd": 22.660997054981102,
+          "contribution": -0.006424301960087891
         },
         {
           "name": "Delta Electronics Inc",
@@ -10842,13 +10842,13 @@
           "weight": 0.73,
           "sector": "Information Technology",
           "country": "Taiwan",
-          "price": 1830,
+          "price": 1770,
           "currency": "TWD",
-          "daily": 3.3898305084745672,
-          "week": 4.571428571428582,
-          "month": 22.408026755852852,
-          "ytd": 91.02482657850845,
-          "contribution": 0.024745762711864343
+          "daily": 1.1428571428571344,
+          "week": 1.4326647564469885,
+          "month": 12.0253164556962,
+          "ytd": 84.76171751036064,
+          "contribution": 0.00834285714285708
         },
         {
           "name": "Hon Hai Precision Industry Ltd",
@@ -10856,13 +10856,13 @@
           "weight": 0.7,
           "sector": "Information Technology",
           "country": "Taiwan",
-          "price": 253,
+          "price": 252,
           "currency": "TWD",
-          "daily": 0.3968253968253954,
-          "week": 3.054989816700604,
-          "month": 6.7510548523206815,
-          "ytd": 13.030045802076252,
-          "contribution": 0.0027777777777777675
+          "daily": 2.2312373225152227,
+          "week": 2.2312373225152227,
+          "month": 5.882352941176472,
+          "ytd": 12.583286727759724,
+          "contribution": 0.015618661257606557
         }
       ],
       "sectors": [
@@ -86840,16 +86840,16 @@
       "id": "bitcoin",
       "name": "Bitcoin",
       "symbol": "BTC-USD",
-      "price": 77802.546875,
+      "price": 77633.921875,
       "currency": "USD",
       "performance": {
-        "day": -3.058892929159207,
-        "week": 0.9329280770010051,
-        "month": 20.204211560163586,
-        "ytd": -12.317359492164515,
-        "year": -28.233606721883408,
-        "threeYear": 185.0195618265337,
-        "fiveYear": 65.34390120068976
+        "day": -3.2689978015110532,
+        "week": 0.7141715493473644,
+        "month": 19.943687502938356,
+        "ytd": -12.507398068657249,
+        "year": -28.389149291536885,
+        "threeYear": 184.401825961277,
+        "fiveYear": 64.98554384016838
       },
       "history": [
         {
@@ -94154,7 +94154,7 @@
         },
         {
           "date": "2026-08-29",
-          "close": 77802.546875
+          "close": 77633.921875
         }
       ]
     }
