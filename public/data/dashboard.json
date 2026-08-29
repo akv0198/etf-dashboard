@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-29T09:06:02.202Z",
+  "generatedAt": "2026-08-29T09:21:09.391Z",
   "delayed": true,
   "delayNote": "Delayed public market data; scheduled refresh approximately hourly. ETF holdings are updated less frequently.",
   "etfs": [
@@ -5440,7 +5440,7 @@
           "daily": -0.7478599996299407,
           "week": -1.2621230033123765,
           "month": 7.058484462455872,
-          "ytd": 62.08838168316835,
+          "ytd": 62.08837089499042,
           "contribution": -0.021463581989379296
         },
         {
@@ -5519,13 +5519,13 @@
           "weight": 1.09,
           "sector": "Consumer Staples",
           "country": "Switzerland",
-          "price": 78.5199966430664,
+          "price": 78.62000274658203,
           "currency": "CHF",
-          "daily": -1.6902542344953142,
-          "week": -1.108318470907932,
-          "month": -4.708743702624729,
-          "ytd": 3.7924407947981686,
-          "contribution": -0.018423771155998924
+          "daily": 0.1273638662648402,
+          "week": -1.3303182160315563,
+          "month": -4.944984141171938,
+          "ytd": 3.924634860285048,
+          "contribution": 0.001388266142286758
         },
         {
           "name": "Siemens AG",
@@ -86828,16 +86828,16 @@
       "id": "bitcoin",
       "name": "Bitcoin",
       "symbol": "BTC-USD",
-      "price": 77676.2890625,
+      "price": 77637.2109375,
       "currency": "USD",
       "performance": {
-        "day": -3.216208757646888,
-        "week": 0.7691343296228226,
-        "month": 20.009144413720993,
-        "ytd": -12.45965070022137,
-        "year": -28.35006907678379,
-        "threeYear": 184.5570326698244,
-        "fiveYear": 65.0755814590577
+        "day": -3.264899666259935,
+        "week": 0.7184384367705521,
+        "month": 19.948769073921113,
+        "ytd": -12.50369133029997,
+        "year": -28.38611540431375,
+        "threeYear": 184.4138750160988,
+        "fiveYear": 64.99253366822524
       },
       "history": [
         {
@@ -94142,7 +94142,7 @@
         },
         {
           "date": "2026-08-29",
-          "close": 77676.2890625
+          "close": 77637.2109375
         }
       ]
     }
