@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-04T23:50:41.348Z",
+  "generatedAt": "2026-09-05T00:16:54.353Z",
   "delayed": true,
   "delayNote": "Delayed public market data; scheduled refresh approximately hourly. ETF holdings are updated less frequently.",
   "etfs": [
@@ -2732,13 +2732,13 @@
           "weight": 8.04,
           "sector": "Information Technology",
           "country": "United States",
-          "price": 230.36000061035156,
+          "price": 228.4499969482422,
           "currency": "USD",
-          "daily": 0.836070775935327,
-          "week": 5.88830033504808,
-          "month": 5.081652827121852,
-          "ytd": 23.66808507570792,
-          "contribution": 0.06722009038520027
+          "daily": 1.80027325885872,
+          "week": 0.20615897425704244,
+          "month": 7.789937867628538,
+          "ytd": 22.6427052582274,
+          "contribution": 0.14474197001224107
         },
         {
           "name": "Apple Inc.",
@@ -2746,13 +2746,13 @@
           "weight": 6.88,
           "sector": "Information Technology",
           "country": "United States",
-          "price": 319.9700012207031,
+          "price": 328.2099914550781,
           "currency": "USD",
-          "daily": -2.5105848234065142,
-          "week": 0.08445073611602627,
-          "month": 2.972971990854112,
-          "ytd": 18.01697769707453,
-          "contribution": -0.17272823585036817
+          "daily": 1.0001231183714099,
+          "week": 4.332762878951102,
+          "month": 6.177858329545538,
+          "ytd": 21.05619618632153,
+          "contribution": 0.068808470543953
         },
         {
           "name": "Microsoft Corporation",
@@ -2760,13 +2760,13 @@
           "weight": 5.41,
           "sector": "Information Technology",
           "country": "United States",
-          "price": 499.70001220703125,
+          "price": 510.1199951171875,
           "currency": "USD",
-          "daily": -2.0426532992031676,
-          "week": -2.693127237131543,
-          "month": 2.7039575048127373,
-          "ytd": 3.980446240019364,
-          "contribution": -0.11050754348689137
+          "daily": 2.6770233881280303,
+          "week": 1.0018606864636403,
+          "month": 3.707370169206503,
+          "ytd": 6.148696082611971,
+          "contribution": 0.14482696529772646
         },
         {
           "name": "Amazon.com Inc.",
@@ -2774,13 +2774,13 @@
           "weight": 3.84,
           "sector": "Consumer Discretionary",
           "country": "United States",
-          "price": 258.510009765625,
+          "price": 258.8999938964844,
           "currency": "USD",
-          "daily": -0.1506311858065601,
-          "week": -2.972631883751198,
-          "month": -5.186130367649245,
-          "ytd": 11.996361477673734,
-          "contribution": -0.005784237534971907
+          "daily": 1.5373747880732092,
+          "week": 1.0301974675150927,
+          "month": -6.675805145570113,
+          "ytd": 12.165317425375255,
+          "contribution": 0.05903519186201123
         },
         {
           "name": "Alphabet Inc. Class A",
@@ -2788,13 +2788,13 @@
           "weight": 3.05,
           "sector": "Communication Services",
           "country": "United States",
-          "price": 338.4599914550781,
+          "price": 342.4800109863281,
           "currency": "USD",
-          "daily": -1.1737968355211459,
-          "week": -2.3457125043177984,
-          "month": -6.613691390090326,
-          "ytd": 8.274936832785462,
-          "contribution": -0.03580080348339495
+          "daily": 1.589943031197949,
+          "week": 0.5372133047505168,
+          "month": -9.312851444079861,
+          "ytd": 9.560959913213352,
+          "contribution": 0.04849326245153744
         },
         {
           "name": "Broadcom Inc.",
@@ -2802,13 +2802,13 @@
           "weight": 2.72,
           "sector": "Information Technology",
           "country": "United States",
-          "price": 357.8949890136719,
+          "price": 357.1600036621094,
           "currency": "USD",
-          "daily": 0.2057860185984861,
-          "week": -2.954261037124295,
-          "month": -14.436504241620884,
-          "ytd": 3.78888863125435,
-          "contribution": 0.005597379705878823
+          "daily": -2.744795458096083,
+          "week": -3.8703785735295426,
+          "month": -14.58771749229525,
+          "ytd": 3.57574423096767,
+          "contribution": -0.07465843646021347
         },
         {
           "name": "Alphabet Inc. Class C",
@@ -2816,13 +2816,13 @@
           "weight": 2.44,
           "sector": "Communication Services",
           "country": "United States",
-          "price": 335.30999755859375,
+          "price": 339.0799865722656,
           "currency": "USD",
-          "daily": -1.1118288200322346,
-          "week": -2.2077715866826275,
-          "month": -6.891957622996525,
-          "ytd": 6.994317656747429,
-          "contribution": -0.027128623208786524
+          "daily": 1.587868599781861,
+          "week": 0.40567207125992155,
+          "month": -9.662986263878548,
+          "ytd": 8.197286267967474,
+          "contribution": 0.0387439938346774
         },
         {
           "name": "Meta Platforms Inc Class A",
@@ -2830,13 +2830,13 @@
           "weight": 1.81,
           "sector": "Communication Services",
           "country": "United States",
-          "price": 616.77001953125,
+          "price": 610.6799926757812,
           "currency": "USD",
-          "daily": 0.99725337795733,
-          "week": 6.703920053050183,
-          "month": 4.755676931765684,
-          "ytd": -6.396071457617502,
-          "contribution": 0.018050286141027674
+          "daily": 3.00750912104224,
+          "week": 6.930488317607697,
+          "month": 3.867739929235592,
+          "ytd": -7.320314085562374,
+          "contribution": 0.054435915090864546
         },
         {
           "name": "Micron Technology Inc.",
@@ -2844,13 +2844,13 @@
           "weight": 1.6,
           "sector": "Information Technology",
           "country": "United States",
-          "price": 1016.5900268554688,
+          "price": 958.1599731445312,
           "currency": "USD",
-          "daily": 6.098152223910924,
-          "week": 8.97562794188791,
-          "month": 13.815652221449671,
-          "ytd": 256.3902877409208,
-          "contribution": 0.09757043558257479
+          "daily": 0.21755041602256053,
+          "week": 2.4342742748490576,
+          "month": 7.3364167596264185,
+          "ytd": 235.90621539646622,
+          "contribution": 0.0034808066563609685
         },
         {
           "name": "JPMorgan Chase & Co.",
@@ -2858,13 +2858,13 @@
           "weight": 1.47,
           "sector": "Financials",
           "country": "United States",
-          "price": 358.6400146484375,
+          "price": 362.05999755859375,
           "currency": "USD",
-          "daily": -0.9445901047388627,
-          "week": 0.28522441283400646,
-          "month": -0.16701247139719877,
-          "ytd": 12.883334931052492,
-          "contribution": -0.013885474539661281
+          "daily": 1.6394352697428616,
+          "week": 2.213312718331162,
+          "month": 1.2698614579416567,
+          "ytd": 13.959787810087999,
+          "contribution": 0.024099698465220063
         }
       ],
       "sectors": [
@@ -5592,7 +5592,7 @@
           "daily": -0.33401103688643907,
           "week": 3.6393838719420035,
           "month": 3.3239005488755913,
-          "ytd": 25.275100009830975,
+          "ytd": 25.275111175521946,
           "contribution": -0.002939297124600664
         },
         {
@@ -10815,7 +10815,7 @@
           "daily": 3.195488721804507,
           "week": -0.3629764065335772,
           "month": -1.237580959361173,
-          "ytd": 153.55954709138277,
+          "ytd": 153.55957148894274,
           "contribution": 0.15593984962405993
         },
         {
@@ -86892,22 +86892,18 @@
       "id": "bitcoin",
       "name": "Bitcoin",
       "symbol": "BTC-USD",
-      "price": 79655.3125,
+      "price": 79638.859375,
       "currency": "USD",
       "performance": {
-        "day": -1.988919695816016,
-        "week": 2.34487557412828,
-        "month": 23.31020937342776,
-        "ytd": -10.229312393871503,
-        "year": -28.05931944415927,
-        "threeYear": 208.981252184293,
-        "fiveYear": 53.9131668029424
+        "day": -2.009164278443565,
+        "week": 1.78034687159776,
+        "month": 23.928167482528973,
+        "ytd": -10.247854890262055,
+        "year": -28.026976149528714,
+        "threeYear": 209.23825790402404,
+        "fiveYear": 51.308208993716505
       },
       "history": [
-        {
-          "date": "2021-09-04",
-          "close": 49944.625
-        },
         {
           "date": "2021-09-05",
           "close": 51753.41015625
@@ -94209,8 +94205,8 @@
           "close": 81271.7421875
         },
         {
-          "date": "2026-09-04",
-          "close": 79655.3125
+          "date": "2026-09-05",
+          "close": 79638.859375
         }
       ]
     }
