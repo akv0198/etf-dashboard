@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-06T18:28:17.239Z",
+  "generatedAt": "2026-09-06T18:42:10.076Z",
   "delayed": true,
   "delayNote": "Delayed public market data; scheduled refresh approximately hourly. ETF holdings are updated less frequently.",
   "etfs": [
@@ -5600,7 +5600,7 @@
           "daily": 0.16027976103745178,
           "week": 2.7657347884586736,
           "month": 4.782927484801469,
-          "ytd": 25.475890640766142,
+          "ytd": 25.475901824353464,
           "contribution": 0.0014104618971295757
         },
         {
@@ -86928,16 +86928,16 @@
       "id": "bitcoin",
       "name": "Bitcoin",
       "symbol": "BTC-USD",
-      "price": 79878.859375,
+      "price": 79942.0078125,
       "currency": "USD",
       "performance": {
-        "day": 0.06889191095043046,
-        "week": 2.8471201733268447,
-        "month": 23.117484156042668,
-        "ytd": -9.977377450035195,
-        "year": -27.530886659714483,
-        "threeYear": 204.41411896407735,
-        "fiveYear": 70.64074556923354
+        "day": 0.1480016305430265,
+        "week": 2.928426228409964,
+        "month": 23.214814999450017,
+        "ytd": -9.906209834496337,
+        "year": -27.473596015979005,
+        "threeYear": 204.65477432791116,
+        "fiveYear": 70.77564604904568
       },
       "history": [
         {
@@ -94246,7 +94246,7 @@
         },
         {
           "date": "2026-09-06",
-          "close": 79878.859375
+          "close": 79942.0078125
         }
       ]
     }
