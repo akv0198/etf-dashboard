@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-12T05:38:58.885Z",
+  "generatedAt": "2026-09-12T05:48:52.248Z",
   "delayed": true,
   "delayNote": "Delayed public market data; scheduled refresh approximately hourly. ETF holdings are updated less frequently.",
   "etfs": [
@@ -5520,7 +5520,7 @@
           "daily": -1.5625016556846005,
           "week": 3.5689142817546315,
           "month": -5.135138277228124,
-          "ytd": 60.75798206012395,
+          "ytd": 60.757992759754664,
           "contribution": -0.044843797518148036
         },
         {
@@ -5562,7 +5562,7 @@
           "daily": 0.9270386266094333,
           "week": -3.1944673143421753,
           "month": -0.7261060452549817,
-          "ytd": -14.720936150869013,
+          "ytd": -14.720930110666952,
           "contribution": 0.010846351931330368
         },
         {
@@ -5590,7 +5590,7 @@
           "daily": 0.07719882525853983,
           "week": -2.154521251061514,
           "month": -4.153779221996611,
-          "ytd": 24.33251209391838,
+          "ytd": 24.332520364574716,
           "contribution": 0.0008955063729990619
         },
         {
@@ -10855,7 +10855,7 @@
           "daily": -2.21262817053427,
           "week": 10.018214936247727,
           "month": 20.504843470060674,
-          "ytd": 178.96171435213373,
+          "ytd": 178.9617411938989,
           "contribution": -0.10797625472207235
         },
         {
@@ -86964,16 +86964,16 @@
       "id": "bitcoin",
       "name": "Bitcoin",
       "symbol": "BTC-USD",
-      "price": 77241.9296875,
+      "price": 77227.1875,
       "currency": "USD",
       "performance": {
-        "day": 0.8800067750124541,
-        "week": -3.2345432399751184,
-        "month": 21.828523224386775,
-        "ytd": -12.949169083090284,
-        "year": -33.47038779753883,
-        "threeYear": 194.49815033276735,
-        "fiveYear": 71.78969861293298
+        "day": 0.8607530875282654,
+        "week": -3.2530116354806515,
+        "month": 21.8052713592471,
+        "ytd": -12.965783371166717,
+        "year": -33.48308546085923,
+        "threeYear": 194.4419432057811,
+        "fiveYear": 71.75691129187867
       },
       "history": [
         {
@@ -94278,12 +94278,15 @@
         },
         {
           "date": "2026-09-12",
-          "close": 77241.9296875
+          "close": 77227.1875
         }
       ]
     }
   ],
   "warnings": [
-    "Holding ROG.SW: 404 Not Found"
+    "Top holdings SPYL.DE: 401 Unauthorized",
+    "Top holdings EXUS.DE: 401 Unauthorized",
+    "Holding ROG.SW: 404 Not Found",
+    "Top holdings IS3N.DE: 401 Unauthorized"
   ]
 }
