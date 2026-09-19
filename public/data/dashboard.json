@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-19T09:10:50.530Z",
+  "generatedAt": "2026-09-19T09:25:57.435Z",
   "delayed": true,
   "delayNote": "Delayed public market data; scheduled refresh approximately hourly. ETF holdings are updated less frequently.",
   "etfs": [
@@ -5555,13 +5555,13 @@
           "weight": 2.87,
           "sector": "Information Technology",
           "country": "Netherlands",
-          "price": 1396.199951171875,
+          "price": 1446,
           "currency": "EUR",
-          "daily": 1.261959800374135,
-          "week": -6.770835073924841,
-          "month": -13.878608856196916,
-          "ytd": 52.25227857539776,
-          "contribution": 0.03621824627073768
+          "daily": 3.566827859170618,
+          "week": -2.1915600567514626,
+          "month": -4.085962893571704,
+          "ytd": 57.68285526384711,
+          "contribution": 0.10236795955819675
         },
         {
           "name": "HSBC Holdings Plc",
@@ -5569,13 +5569,13 @@
           "weight": 1.32,
           "sector": "Financials",
           "country": "United Kingdom",
-          "price": 1537.4000244140625,
+          "price": 1512.5999755859375,
           "currency": "GBp",
-          "daily": 1.9631234001446618,
-          "week": 0.5493802756090682,
-          "month": 1.5053511947472842,
-          "ytd": 31.024208159271673,
-          "contribution": 0.025913228881909535
+          "daily": -1.6131161984062614,
+          "week": -2.5763236267541734,
+          "month": 1.0285883593576628,
+          "ytd": 28.910635433620936,
+          "contribution": -0.02129313381896265
         },
         {
           "name": "Roche Holding AG",
@@ -5597,13 +5597,13 @@
           "weight": 1.17,
           "sector": "Health Care",
           "country": "United Kingdom",
-          "price": 12428,
+          "price": 12500,
           "currency": "GBp",
-          "daily": 2.4060646011865527,
-          "week": 5.698248001360784,
-          "month": 5.268507538539735,
-          "ytd": -9.861517215118976,
-          "contribution": 0.028150955833882663
+          "daily": 0.5793369810106253,
+          "week": 6.764605398018442,
+          "month": 3.734439834024905,
+          "ytd": -9.33931165022427,
+          "contribution": 0.006778242677824314
         },
         {
           "name": "Novartis AG",
@@ -5653,13 +5653,13 @@
           "weight": 0.93,
           "sector": "Industrials",
           "country": "Germany",
-          "price": 260.5,
+          "price": 264,
           "currency": "EUR",
-          "daily": 0.6568826457562293,
-          "week": -1.4750355470928178,
-          "month": -7.722277270857081,
-          "ytd": 11.243215058590227,
-          "contribution": 0.006109008605532934
+          "daily": 1.3435700575815668,
+          "week": -0.2456051054127828,
+          "month": -4.572562506984079,
+          "ytd": 12.73784558720854,
+          "contribution": 0.012495201535508572
         },
         {
           "name": "Shell Plc",
@@ -5667,13 +5667,13 @@
           "weight": 0.88,
           "sector": "Energy",
           "country": "United Kingdom",
-          "price": 3571,
+          "price": 3539,
           "currency": "GBp",
-          "daily": -0.15378163008528123,
-          "week": 1.0755731672799307,
-          "month": 5.401416765053124,
-          "ytd": 30.363906773883652,
-          "contribution": -0.001353278344750475
+          "daily": -0.8961075329039447,
+          "week": -0.3379329766262984,
+          "month": 3.4644057886273893,
+          "ytd": 29.195705985095,
+          "contribution": -0.007885746289554714
         },
         {
           "name": "Mitsubishi UFJ Financial Group",
@@ -10895,7 +10895,7 @@
           "daily": 6.418338108882526,
           "week": 2.4834437086092676,
           "month": 23.826839467454562,
-          "ytd": 185.88957149664037,
+          "ytd": 185.88959900500566,
           "contribution": 0.3132148997134673
         },
         {
@@ -87004,16 +87004,16 @@
       "id": "bitcoin",
       "name": "Bitcoin",
       "symbol": "BTC-USD",
-      "price": 81402.0078125,
+      "price": 81431.75,
       "currency": "USD",
       "performance": {
-        "day": 0.6187117874010939,
-        "week": 5.346853887825032,
-        "month": 11.459583686387308,
-        "ytd": -8.260805406449578,
-        "year": -29.63712473935004,
-        "threeYear": 200.0220565136254,
-        "fiveYear": 89.99716721707023
+        "day": 0.6554752613301629,
+        "week": 5.385344902544031,
+        "month": 11.500308134417004,
+        "ytd": -8.227286278358969,
+        "year": -29.61141596526351,
+        "threeYear": 200.1316768104554,
+        "fiveYear": 90.06658726608
       },
       "history": [
         {
@@ -94322,7 +94322,7 @@
         },
         {
           "date": "2026-09-19",
-          "close": 81402.0078125
+          "close": 81431.75
         }
       ]
     }
