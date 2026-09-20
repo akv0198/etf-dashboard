@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-20T05:49:29.148Z",
+  "generatedAt": "2026-09-20T05:51:15.632Z",
   "delayed": true,
   "delayNote": "Delayed public market data; scheduled refresh approximately hourly. ETF holdings are updated less frequently.",
   "etfs": [
@@ -2879,7 +2879,7 @@
           "daily": -2.427048939316123,
           "week": 2.734436662194728,
           "month": 21.925528685169372,
-          "ytd": 1.0373615021891158,
+          "ytd": 1.037370861263942,
           "contribution": -0.04392958580162183
         },
         {
@@ -5563,13 +5563,13 @@
           "weight": 2.87,
           "sector": "Information Technology",
           "country": "Netherlands",
-          "price": 1446,
+          "price": 1396.199951171875,
           "currency": "EUR",
-          "daily": 3.566827859170618,
-          "week": -2.1915600567514626,
-          "month": -4.085962893571704,
-          "ytd": 57.68285526384711,
-          "contribution": 0.10236795955819675
+          "daily": 1.261959800374135,
+          "week": -6.770835073924841,
+          "month": -13.878608856196916,
+          "ytd": 52.25227857539776,
+          "contribution": 0.03621824627073768
         },
         {
           "name": "HSBC Holdings Plc",
@@ -5661,13 +5661,13 @@
           "weight": 0.93,
           "sector": "Industrials",
           "country": "Germany",
-          "price": 264,
+          "price": 260.5,
           "currency": "EUR",
-          "daily": 1.3435700575815668,
-          "week": -0.2456051054127828,
-          "month": -4.572562506984079,
-          "ytd": 12.73784558720854,
-          "contribution": 0.012495201535508572
+          "daily": 0.6568826457562293,
+          "week": -1.4750355470928178,
+          "month": -7.722277270857081,
+          "ytd": 11.243215058590227,
+          "contribution": 0.006109008605532934
         },
         {
           "name": "Shell Plc",
@@ -10907,7 +10907,7 @@
           "daily": 6.418338108882526,
           "week": 2.4834437086092676,
           "month": 23.826839467454562,
-          "ytd": 185.8895439882804,
+          "ytd": 185.88957149664037,
           "contribution": 0.3132148997134673
         },
         {
@@ -10949,7 +10949,7 @@
           "daily": 0,
           "week": 2.72628135223556,
           "month": 24.274406332453836,
-          "ytd": 237.7615882016227,
+          "ytd": 237.76161776878894,
           "contribution": 0
         },
         {
@@ -87016,16 +87016,16 @@
       "id": "bitcoin",
       "name": "Bitcoin",
       "symbol": "BTC-USD",
-      "price": 80490.0625,
+      "price": 80462.953125,
       "currency": "USD",
       "performance": {
-        "day": -0.5085179337092849,
-        "week": 4.7527249848606345,
-        "month": 2.750839142371375,
-        "ytd": -9.28855804708244,
-        "year": -30.445300228301797,
-        "threeYear": 202.9628686456764,
-        "fiveYear": 97.79501594468043
+        "day": -0.5420270628224699,
+        "week": 4.717443848088165,
+        "month": 2.716232248757944,
+        "ytd": -9.319110023566402,
+        "year": -30.46872652939484,
+        "threeYear": 202.86082953970364,
+        "fiveYear": 97.72839779215539
       },
       "history": [
         {
@@ -94330,15 +94330,12 @@
         },
         {
           "date": "2026-09-20",
-          "close": 80490.0625
+          "close": 80462.953125
         }
       ]
     }
   ],
   "warnings": [
-    "Top holdings SPYL.DE: 401 Unauthorized",
-    "Top holdings EXUS.DE: 401 Unauthorized",
-    "Holding ROG.SW: 404 Not Found",
-    "Top holdings IS3N.DE: 401 Unauthorized"
+    "Holding ROG.SW: 404 Not Found"
   ]
 }
