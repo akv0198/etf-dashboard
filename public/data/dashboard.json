@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-27T05:40:00.753Z",
+  "generatedAt": "2026-09-27T05:50:40.096Z",
   "delayed": true,
   "delayNote": "Delayed public market data; scheduled refresh approximately hourly. ETF holdings are updated less frequently.",
   "etfs": [
@@ -2857,7 +2857,7 @@
           "daily": 0.45566892829778105,
           "week": -1.6078259941065487,
           "month": 0.6260482093015662,
-          "ytd": 10.092345301422734,
+          "ytd": 10.092334546511728,
           "contribution": 0.013897902313082322
         },
         {
@@ -2899,7 +2899,7 @@
           "daily": -3.3346690177852745,
           "week": 12.993337857887944,
           "month": 30.567775731088332,
-          "ytd": 14.16550108165795,
+          "ytd": 14.165490498180944,
           "contribution": -0.06035750922191347
         },
         {
@@ -5650,7 +5650,7 @@
           "daily": 1.2258064516128986,
           "week": 0.41599999999999415,
           "month": 2.5993133889161246,
-          "ytd": -8.962163186689198,
+          "ytd": -8.962169634776984,
           "contribution": 0.014341935483870912
         },
         {
@@ -87056,16 +87056,16 @@
       "id": "bitcoin",
       "name": "Bitcoin",
       "symbol": "BTC-USD",
-      "price": 84532.7890625,
+      "price": 84514.34375,
       "currency": "USD",
       "performance": {
-        "day": 0.5924527284508763,
-        "week": 4.178051104854541,
-        "month": 8.61168586257941,
-        "ytd": -4.73244832974018,
-        "year": -22.9291668545323,
-        "threeYear": 212.83475166519312,
-        "fiveYear": 106.00397359579765
+        "day": 0.5705031483377088,
+        "week": 4.155319136235258,
+        "month": 8.587986461328079,
+        "ytd": -4.753236000195105,
+        "year": -22.945983945483285,
+        "threeYear": 212.76649016785797,
+        "fiveYear": 105.95902290019947
       },
       "history": [
         {
@@ -94370,12 +94370,15 @@
         },
         {
           "date": "2026-09-27",
-          "close": 84532.7890625
+          "close": 84514.34375
         }
       ]
     }
   ],
   "warnings": [
-    "Holding ROG.SW: 404 Not Found"
+    "Top holdings SPYL.DE: 401 Unauthorized",
+    "Top holdings EXUS.DE: 401 Unauthorized",
+    "Holding ROG.SW: 404 Not Found",
+    "Top holdings IS3N.DE: 401 Unauthorized"
   ]
 }
