@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-17T09:40:25.591Z",
+  "generatedAt": "2026-10-17T09:41:33.197Z",
   "delayed": true,
   "delayNote": "Delayed public market data; scheduled refresh approximately hourly. ETF holdings are updated less frequently.",
   "etfs": [
@@ -2857,7 +2857,7 @@
           "daily": -1.427054691201457,
           "week": -6.607638685076777,
           "month": 0.10753202098707781,
-          "ytd": 15.083685079379649,
+          "ytd": 15.083675641595807,
           "contribution": -0.11473519717259713
         },
         {
@@ -2885,7 +2885,7 @@
           "daily": -1.9260741883090238,
           "week": -1.125090072111301,
           "month": 7.90332469197661,
-          "ytd": 10.0877506039744,
+          "ytd": 10.087757594846881,
           "contribution": -0.10420061358751818
         },
         {
@@ -2913,7 +2913,7 @@
           "daily": -2.4712229690871723,
           "week": -3.147929024892837,
           "month": -0.6649747168799625,
-          "ytd": 9.026372467620924,
+          "ytd": 9.026361816844709,
           "contribution": -0.07537230055715875
         },
         {
@@ -2955,7 +2955,7 @@
           "daily": -3.717824234782219,
           "week": -1.2996181894910364,
           "month": 5.432833291541206,
-          "ytd": 7.736226777335431,
+          "ytd": 7.736236764800775,
           "contribution": -0.06729261864955817
         },
         {
@@ -2969,7 +2969,7 @@
           "daily": -5.626902187235128,
           "week": -14.579368983472474,
           "month": -5.134276079794942,
-          "ytd": 208.14714707002744,
+          "ytd": 208.1471800428849,
           "contribution": -0.09003043499576205
         },
         {
@@ -5762,7 +5762,7 @@
           "daily": -1.9845644983461974,
           "week": 3.7339556592765444,
           "month": 2.554383651944625,
-          "ytd": -9.7309658238953,
+          "ytd": -9.730972217529821,
           "contribution": -0.023219404630650507
         },
         {
@@ -94492,9 +94492,6 @@
     }
   ],
   "warnings": [
-    "Top holdings SPYL.DE: 401 Unauthorized",
-    "Top holdings EXUS.DE: 401 Unauthorized",
-    "Holding ROG.SW: 404 Not Found",
-    "Top holdings IS3N.DE: 401 Unauthorized"
+    "Holding ROG.SW: 404 Not Found"
   ]
 }
