@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-17T05:36:24.025Z",
+  "generatedAt": "2026-10-17T09:40:25.591Z",
   "delayed": true,
   "delayNote": "Delayed public market data; scheduled refresh approximately hourly. ETF holdings are updated less frequently.",
   "etfs": [
@@ -2857,7 +2857,7 @@
           "daily": -1.427054691201457,
           "week": -6.607638685076777,
           "month": 0.10753202098707781,
-          "ytd": 15.083675641595807,
+          "ytd": 15.083685079379649,
           "contribution": -0.11473519717259713
         },
         {
@@ -2969,7 +2969,7 @@
           "daily": -5.626902187235128,
           "week": -14.579368983472474,
           "month": -5.134276079794942,
-          "ytd": 208.1471800428849,
+          "ytd": 208.14714707002744,
           "contribution": -0.09003043499576205
         },
         {
@@ -5715,13 +5715,13 @@
           "weight": 2.87,
           "sector": "Information Technology",
           "country": "Netherlands",
-          "price": 1464.199951171875,
+          "price": 1477.199951171875,
           "currency": "EUR",
-          "daily": -4.1879336503657605,
-          "week": -10.204834227000925,
-          "month": 6.193784400887825,
-          "ytd": 59.66751658227301,
-          "contribution": -0.12019369576549732
+          "daily": 0.8878568797653141,
+          "week": -7.767234409987511,
+          "month": 5.8014613116132985,
+          "ytd": 61.085124891594674,
+          "contribution": 0.025481492449264516
         },
         {
           "name": "HSBC Holdings Plc",
@@ -5729,13 +5729,13 @@
           "weight": 1.32,
           "sector": "Financials",
           "country": "United Kingdom",
-          "price": 1421.199951171875,
+          "price": 1428,
           "currency": "GBp",
-          "daily": -0.09841307732947335,
-          "week": 2.9407486820146156,
-          "month": -5.492758011320609,
-          "ytd": 21.121110499045237,
-          "contribution": -0.0012990526207490483
+          "daily": 0.47847235165734414,
+          "week": 2.306917183367996,
+          "month": -5.292482175613822,
+          "ytd": 21.700641524803487,
+          "contribution": 0.0063158350418769426
         },
         {
           "name": "Roche Holding AG",
@@ -5757,13 +5757,13 @@
           "weight": 1.17,
           "sector": "Health Care",
           "country": "United Kingdom",
-          "price": 12698,
+          "price": 12446,
           "currency": "GBp",
-          "daily": 3.2357723577235875,
-          "week": 6.77766565758493,
-          "month": 4.803565533179266,
-          "ytd": -7.903246346763815,
-          "contribution": 0.03785853658536597
+          "daily": -1.9845644983461974,
+          "week": 3.7339556592765444,
+          "month": 2.554383651944625,
+          "ytd": -9.7309658238953,
+          "contribution": -0.023219404630650507
         },
         {
           "name": "Novartis AG",
@@ -5799,13 +5799,13 @@
           "weight": 1.09,
           "sector": "Consumer Staples",
           "country": "Switzerland",
-          "price": 81.06999969482422,
+          "price": 82.43000030517578,
           "currency": "CHF",
-          "daily": 2.7633417696056206,
-          "week": 6.67105223003186,
-          "month": 4.082681127352017,
-          "ytd": 7.163187764888601,
-          "contribution": 0.030120425288701264
+          "daily": 1.6775633594067862,
+          "week": 8.403470953067282,
+          "month": 6.142153512920467,
+          "ytd": 8.960918137604668,
+          "contribution": 0.01828544061753397
         },
         {
           "name": "Siemens AG",
@@ -5815,11 +5815,11 @@
           "country": "Germany",
           "price": 270.6499938964844,
           "currency": "EUR",
-          "daily": -1.5997069957320864,
-          "week": 2.4219466022646685,
-          "month": 4.5788279221230965,
+          "daily": 0,
+          "week": -0.5328967932766715,
+          "month": 3.8963508239863165,
           "ytd": 15.577640985154506,
-          "contribution": -0.014877275060308405
+          "contribution": 0
         },
         {
           "name": "Shell Plc",
@@ -5827,13 +5827,13 @@
           "weight": 0.88,
           "sector": "Energy",
           "country": "United Kingdom",
-          "price": 3908,
+          "price": 3938,
           "currency": "GBp",
-          "daily": -0.08947973923046915,
-          "week": 3.3725697659039877,
-          "month": 6.995208761122518,
-          "ytd": 42.66652133081414,
-          "contribution": -0.0007874217052281286
+          "daily": 0.7676560900716556,
+          "week": 3.8091472255173286,
+          "month": 10.107647141059694,
+          "ytd": 43.761709570303495,
+          "contribution": 0.00675537359263057
         },
         {
           "name": "Mitsubishi UFJ Financial Group",
@@ -11055,7 +11055,7 @@
           "daily": 0.7923930269413626,
           "week": -24.330755502676983,
           "month": -27.68618533257533,
-          "ytd": 95.82742861805416,
+          "ytd": 95.82740977549416,
           "contribution": 0.03866877971473849
         },
         {
@@ -87168,16 +87168,16 @@
       "id": "bitcoin",
       "name": "Bitcoin",
       "symbol": "BTC-USD",
-      "price": 81485.2890625,
+      "price": 81560.7265625,
       "currency": "USD",
       "performance": {
-        "day": -0.7988315127475887,
-        "week": -1.721021807229317,
-        "month": 6.6508699719612485,
-        "ytd": -8.166948325954193,
-        "year": -23.464843423520776,
-        "threeYear": 187.64581296985386,
-        "fiveYear": 31.37262829722076
+        "day": 0.07352304707881618,
+        "week": -1.6300370355887495,
+        "month": 6.749605278616899,
+        "ytd": -8.081931068049553,
+        "year": -23.39398866015594,
+        "threeYear": 187.91210988388053,
+        "fiveYear": 31.49425052819266
       },
       "history": [
         {
@@ -94481,13 +94481,20 @@
           "close": 82141.4609375
         },
         {
+          "date": "2026-10-16",
+          "close": 81500.8046875
+        },
+        {
           "date": "2026-10-17",
-          "close": 81485.2890625
+          "close": 81560.7265625
         }
       ]
     }
   ],
   "warnings": [
-    "Holding ROG.SW: 404 Not Found"
+    "Top holdings SPYL.DE: 401 Unauthorized",
+    "Top holdings EXUS.DE: 401 Unauthorized",
+    "Holding ROG.SW: 404 Not Found",
+    "Top holdings IS3N.DE: 401 Unauthorized"
   ]
 }
